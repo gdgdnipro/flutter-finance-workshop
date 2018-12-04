@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "899882931980",
+    "firebase_url": "https://flutter-finance-workshop.firebaseio.com",
+    "project_id": "flutter-finance-workshop",
+    "storage_bucket": "flutter-finance-workshop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899882931980:android:4d6f6dceb41cc648",
+        "android_client_info": {
+          "package_name": "com.gdgdnipro.flutterfinanceworkshop.flutterfinanceworkshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899882931980-ahfae0kkd3a03mgqmrdmimh33dpmdl9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0oRyv6mNKqfRl8YZYjZSyxOH1jGg43z4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
