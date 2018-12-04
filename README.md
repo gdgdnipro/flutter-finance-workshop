@@ -14,3 +14,8 @@ For help getting started with Flutter, view online
 
 Создайте [новый проект Firebase](https://console.firebase.google.com/).
 
+Для **Android** приложения используйте package name:
+`com.gdgdnipro.flutterfinanceworkshop.flutterfinanceworkshop`
+
+Для **iOS**:
+`com.gdgdnipro.flutter-finance-workshop`
