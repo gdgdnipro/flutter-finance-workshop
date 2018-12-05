@@ -19,3 +19,6 @@ For help getting started with Flutter, view online
 
 Для **iOS**:
 `com.gdgdnipro.flutter-finance-workshop`
+
+## [Конечные файлы](http://bit.ly/GDGFinanceGist)
+
